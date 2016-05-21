@@ -1,3 +1,4 @@
+/*Header file for the numerical stack*/
 #define MAX 128
 
 typedef struct stack {

@@ -1,3 +1,4 @@
+/*the definition of the numerical stack*/
 #include"numberstack.h"
 
 void push(stack *s, int number){
